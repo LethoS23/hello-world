@@ -9,6 +9,8 @@ from datetime import datetime
     - Uses a while loop to validate the username and password.
 '''
 
+# okay, now we will update variable names and add comments to the code
+
 
 def load_users():
     '''This code block reads the user.txt file and loads usernames and
