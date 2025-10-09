@@ -1,7 +1,7 @@
 # =====importing libraries===========
 '''This is the section where you will import libraries'''
 from datetime import datetime
-
+# We will make updates to this section later in the task so leave it for now.
 # ====Login Section====
 '''This section allows a user to log in.
     - Reads usernames and passwords from the user.txt file.
